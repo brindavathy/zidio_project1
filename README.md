@@ -20,7 +20,7 @@ MAIN SCREEN:
 ![Screenshot (9)](https://user-images.githubusercontent.com/37211676/58502148-97ec2a00-81a3-11e9-963e-674b9c3e05dc.png)
 
 SHOWING ATTENDANCE TAKEN:
-![Screenshot (11)](https://user-images.githubusercontent.com/37211676/58502151-9884c080-81a3-11e9-9a90-fec29940ee5a.png)
+![Screenshot (11)](https://github.com/user-attachments/assets/3add6741-7ab6-44f0-9e71-05d9ef3b266a)
 
 HELP OPTION IN MENUBAR:
 ![Screenshot (12)](https://user-images.githubusercontent.com/37211676/58502152-991d5700-81a3-11e9-861a-9115526010c2.png)
